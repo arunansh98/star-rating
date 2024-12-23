@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/star-rating/static/js/main.625677f0.js",
+    "index.html": "/star-rating/index.html",
+    "main.625677f0.js.map": "/star-rating/static/js/main.625677f0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.625677f0.js"
+  ]
+}
